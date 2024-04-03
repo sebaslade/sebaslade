@@ -1,4 +1,4 @@
-# Sobre mí:
+# About Me:
 <br>I am Sebastián Laos, I am 18 years old. I consider myself a full-stack programmer with a burning desire to constantly learn and grow in the world of development. My approach goes beyond code; I look for challenges that push me to expand my skills and knowledge.<br><br>I am committed to excellence and responsibility in every line I write. I am excited by the idea of contributing to innovative projects and working as a team to create impactful solutions.<br><br>My journey in development is not only about solving problems, but about learning from them and evolving. I am always open to new ideas, perspectives and technologies.<br>
 
 # Portfolio:
