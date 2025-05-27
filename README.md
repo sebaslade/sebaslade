@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=sebaslade&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaslade&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaslade&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sebaslade&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
